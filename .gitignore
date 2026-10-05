@@ -1,0 +1,8 @@
+.qa/
+loot/
+state/
+reports/
+reference-mindmap.svg
+*.potfile
+__pycache__/
+*.pyc
